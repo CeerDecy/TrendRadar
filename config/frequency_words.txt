@@ -1,4 +1,20 @@
-DeepSeek
+claude
+Anthropic
+chatgpt
+openai
+sora
+mcp
+modelcontextprotocol
+kimi
+glm
+deepseek
+gemini
+
+ai
+!gai
+人工智能
+
+科技公司
 
 大疆
 DJI
@@ -18,17 +34,6 @@ NVIDIA
 google
 gemini
 deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
