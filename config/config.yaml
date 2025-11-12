@@ -83,7 +83,7 @@ platforms:
    name: "百度热搜"
  - id: "wallstreetcn-hot"
    name: "华尔街见闻"
- - id: "bilibili-hot-search"
+ # - id: "bilibili-hot-search"
 #    name: "bilibili 热搜"
  - id: "ifeng"
    name: "凤凰网"
